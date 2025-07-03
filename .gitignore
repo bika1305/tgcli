@@ -1,5 +1,6 @@
 .env
-__pycache__
+__pycache__/
 *.pyc
 testing.txt
 testing.py
+*.session
